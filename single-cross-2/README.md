@@ -25,17 +25,3 @@ The function `monte_carlo_integration` performs the Monte Carlo integration by:
 
 ### 4. Main Function:
 The main function initializes the length `D` (currently set to 0.750) and uses the Monte Carlo integration to calculate and display the probability that a segment of length `D` crosses the integer-coordinate plane.
-
-## Compile and Run
-To compile the program, ensure that you have OpenMP installed and use:
-```bash
-g++ -fopenmp -o puzzle_solution main.cpp
-```
-
-To run the compiled code:
-```bash
-./puzzle_solution
-```
-
-## Note:
-This code approximates the solution for a single value of `D`. To find the optimal `D`, you'd need to repeat the Monte Carlo simulation across various potential values of `D` and identify which gives the highest probability.
