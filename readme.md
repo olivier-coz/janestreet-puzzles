@@ -1,7 +1,13 @@
 # Jane Street Puzzles
 
-## Overview
-This folder contains attempts at tackling puzzles provided by Jane Street. The puzzles range from mathematical challenges to computational problems, often testing the limits of one's analytical and programming skills.
+## Puzzles Solved:
+- March 2025: Hall of Mirrors 3
+- February 2025: Top Score (Give or Take)
+- November 2024: Beside the Point
+- October 2024: Knight Moves 6
+- February 2024: Some Off Square
+- April 2023: Arc-edge Acreage  *(not on leaderboard)*
+
 
 ## License & Acknowledgments
-All puzzles and their original statements are the intellectual property of Jane Street. Solutions and code provided here are for educational purposes only. Ensure you credit Jane Street if you use their puzzles elsewhere.
+All puzzles and their original statements are the intellectual property of Jane Street.
