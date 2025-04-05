@@ -1,6 +1,7 @@
 # Jane Street Puzzles
 
 ## Puzzles Solved:
+- April 2025: Sum One, Somewhere
 - March 2025: Hall of Mirrors 3
 - February 2025: Top Score (Give or Take)
 - November 2024: Beside the Point
